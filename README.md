@@ -5,8 +5,6 @@ My personal portfolio website built with HTML, CSS, and JavaScript. Showcasing m
 This is my personal *portfolio website* where I showcase my skills, projects, and experience.  
 Built using *HTML, CSS, and JavaScript*, this site represents my journey as a web developer and aspiring professional in the tech industry.  
 
-🚀 Hosted with *GitHub Pages*: [Live Demo](https://your-username.github.io/your-repo-name/)  
-
 ---
 
 ## 📌 Features
