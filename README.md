@@ -26,5 +26,5 @@ Built using *HTML, CSS, and JavaScript*, this site represents my journey as a we
 
 ## 🔗 Connect With Me
 - GitHub: (https://github.com/annnuu01)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
+- LinkedIn: (https://www.linkedin.com/in/anu-bharti-89858b320)  
 
